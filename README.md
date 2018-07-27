@@ -1,1 +1,1 @@
-# AI_book_code
+# Repo for AI book
